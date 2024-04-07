@@ -1,5 +1,7 @@
 # CurlHttpClient HTTP/2 chunked issue
 
+Bug reproducer repo for Symfony issue: https://github.com/symfony/symfony/issues/54516
+
 ## Setup
 
 Clone the repository and install dependencies:
