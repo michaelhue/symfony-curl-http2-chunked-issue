@@ -1,0 +1,16 @@
+{
+	"name": "michaelhue/symfony-curl-http2-chunked-issue",
+	"type": "project",
+	"require": {
+		"symfony/http-client": "^7.0",
+		"symfony/mime": "^7.0"
+	},
+	"require-dev": {
+		"pestphp/pest": "^2.34"
+	},
+	"config": {
+		"allow-plugins": {
+			"pestphp/pest-plugin": true
+		}
+	}
+}
